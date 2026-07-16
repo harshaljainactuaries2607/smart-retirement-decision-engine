@@ -6,9 +6,17 @@ This project was developed as part of a retirement and financial wellness case s
 
 ---
 
+# 🌐 Live Demo
+
+🚀 **Try the application here:**
+
+https://smart-retirement-decision-engine.streamlit.app/
+
+---
+
 ## 🎯 Project Objective
 
-The objective of this application is to help employees understand the trade-off between:
+The application helps employees understand the trade-off between present-day spending and future retirement security by analysing:
 
 - 💰 Current Take-Home Salary
 - 🏦 Retirement Wealth
@@ -16,7 +24,7 @@ The objective of this application is to help employees understand the trade-off 
 - 📈 EPF & NPS Contributions
 - 💼 WeCare Pension Benefits
 
-Instead of simply calculating retirement wealth, the application supports informed financial decision-making through interactive projections and personalised recommendations.
+Rather than simply calculating retirement wealth, the application provides an interactive decision-support tool that enables users to compare different retirement strategies and understand the long-term impact of financial decisions.
 
 ---
 
@@ -24,27 +32,29 @@ Instead of simply calculating retirement wealth, the application supports inform
 
 - Interactive employee input dashboard
 - Retirement wealth projection
+- Retirement readiness score
 - Monthly take-home salary calculation
 - Housing affordability assessment
-- Retirement readiness score
 - WeCare pension estimation
 - Current vs Recommended retirement strategy
-- Scenario comparison (Conservative / Base / Aggressive)
+- Conservative, Base and Aggressive scenario comparison
 - Smart financial recommendations
+- Interactive charts and visualisations
 
 ---
 
 ## 🧮 Actuarial Concepts Applied
 
-This project demonstrates the practical application of actuarial and financial modelling concepts, including:
+This project demonstrates practical actuarial and financial modelling concepts including:
 
 - Retirement planning
-- Long-term wealth accumulation
 - Pension modelling
+- Long-term wealth accumulation
 - Contribution analysis
 - Scenario analysis
-- Financial decision support
 - Employee benefits
+- Financial decision support
+- Retirement readiness assessment
 
 ---
 
@@ -79,14 +89,15 @@ This project demonstrates the practical application of actuarial and financial m
 
 ## 🚀 Future Enhancements
 
-Planned improvements include:
+Potential future improvements include:
 
 - Inflation-adjusted retirement projections
-- Dynamic salary progression
+- Dynamic salary growth modelling
 - Monte Carlo simulation
 - Tax optimisation analysis
-- Live market assumptions
 - AI-powered retirement coaching
+- Portfolio allocation recommendations
+- Exportable retirement reports (PDF)
 
 ---
 
@@ -94,10 +105,19 @@ Planned improvements include:
 
 **Harshal Jain**
 
-Actuarial Student | Python | Retirement Analytics | Financial Modelling
+Actuarial Student | Python | Financial Modelling | Retirement Analytics
+
+LinkedIn:
+https://www.linkedin.com/in/harshaljainactuaries/
 
 ---
 
 ## ⭐ Repository Purpose
 
-This project demonstrates the practical application of actuarial thinking, financial modelling and Python to solve real-world retirement planning problems through an interactive decision-support application.
+This repository showcases how actuarial principles, financial modelling and Python can be combined to develop an interactive retirement planning application. The project demonstrates practical problem-solving, data visualisation and decision-support capabilities relevant to actuarial, insurance and financial analytics roles.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
